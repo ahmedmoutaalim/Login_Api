@@ -119,7 +119,9 @@ form, .forgot-panel{
 }
 
 
-
+.wrapper {
+  padding: 20px;
+}
 
 /* .App {
   text-align: center;

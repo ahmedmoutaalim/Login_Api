@@ -71,6 +71,8 @@ namespace commerce_P.Controllers
         [Route("register")]
         public async Task<IActionResult> Register([FromBody] RegisterModel model)
         {
+            
+
             var userExists = await userManager.FindByNameAsync(model.Username);
             if (userExists != null)
             {
@@ -120,5 +122,8 @@ namespace commerce_P.Controllers
 
             return Ok(new Response { Status = "Success", Message = "User created successfully!" });
         }
+
+
+
     }
 }

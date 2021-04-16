@@ -74,6 +74,12 @@ namespace commerce_P
 
             app.UseRouting();
 
+            app.UseCors(x => x
+                .AllowAnyMethod()
+                .AllowAnyHeader()
+                .SetIsOriginAllowed(origin => true) // allow any origin
+                .AllowCredentials());
+
             app.UseAuthentication();
             app.UseAuthorization();
 
@@ -81,6 +87,9 @@ namespace commerce_P
             {
                 endpoints.MapControllers();
             });
+
+           
+
         }
     }
 }

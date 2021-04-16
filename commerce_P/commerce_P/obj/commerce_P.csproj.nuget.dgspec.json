@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youcode\\Desktop\\commerce_P\\commerce_P\\commerce_P.csproj": {}
+    "C:\\Users\\Youcode\\Desktop\\Login_Api\\commerce_P\\commerce_P\\commerce_P.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youcode\\Desktop\\commerce_P\\commerce_P\\commerce_P.csproj": {
+    "C:\\Users\\Youcode\\Desktop\\Login_Api\\commerce_P\\commerce_P\\commerce_P.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\commerce_P\\commerce_P\\commerce_P.csproj",
+        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\Login_Api\\commerce_P\\commerce_P\\commerce_P.csproj",
         "projectName": "commerce_P",
-        "projectPath": "C:\\Users\\Youcode\\Desktop\\commerce_P\\commerce_P\\commerce_P.csproj",
+        "projectPath": "C:\\Users\\Youcode\\Desktop\\Login_Api\\commerce_P\\commerce_P\\commerce_P.csproj",
         "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcode\\Desktop\\commerce_P\\commerce_P\\obj\\",
+        "outputPath": "C:\\Users\\Youcode\\Desktop\\Login_Api\\commerce_P\\commerce_P\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Youcode\\AppData\\Roaming\\NuGet\\NuGet.Config",
